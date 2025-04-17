@@ -1,0 +1,9 @@
+Crop,Kc_Initial,Kc_Development,Kc_Mid,Kc_Late,Initial_days,Development_days,Mid_days,Late_days,Total_days
+"Rice (humid, wet)",1.1,1.05,0.95,0.9,30,30,60,30,150
+"Rice (dry, strong wind)",1.15,1.35,1.05,1.0,30,30,60,30,150
+"Sugarcane (12mo, peak)",0.55,0.9,1.05,0.8,30,60,150,60,300
+"Sugarcane (24mo, peak)",0.6,0.95,1.25,0.7,45,90,180,90,405
+"Banana (tropical, peak)",0.4,1.0,1.1,0.95,30,60,120,60,270
+"Grapes (dry, strong wind)",0.5,0.75,0.95,0.75,30,60,90,60,240
+Pasture (humid),0.95,1.03,1.03,1.03,20,30,30,20,100
+Pasture (dry),1.0,1.1,1.25,1.15,20,30,30,20,100
